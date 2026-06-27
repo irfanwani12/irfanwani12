@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Irfan Wani Banner" width="100%">
+  <img src="ChatGPT Image Jun 27, 2026, 07_57_31 PM.png" alt="Irfan Wani Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Irfan Wani</h1>
 
