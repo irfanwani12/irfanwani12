@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Irfan Wani Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Irfan Wani</h1>
 
 <p align="center">
